@@ -21,6 +21,7 @@
            source="1.8"
            debug="on"
            fork="true"
+           encoding="UTF-8"
             >
       <compilerarg line="-Xlint:unchecked -Xdiags:verbose"/>
     </javac>
